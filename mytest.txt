@@ -1,0 +1,129 @@
+The most populous cities in the world from 1500 to 2018
+Population (thousands)
+Sources: SEDAC; United Nations; Demographia
+
+12
+1500,Beijing,China,672,East Asia
+1500,Cairo,Egypt,400,Middle East
+1500,Cuttack,India,140,South Asia
+1500,Fez,Morocco,130,Middle East
+1500,Gauda,India,200,South Asia
+1500,Guangzhou,China,150,East Asia
+1500,Hangzhou,China,250,East Asia
+1500,Istanbul,Turkey,200,Europe
+1500,Nanjing,China,147,East Asia
+1500,Paris,France,185,Europe
+1500,Tabriz,Iran,250,Middle East
+1500,Vijayanagar,India,500,South Asia
+
+12
+1501,Beijing,China,672,East Asia
+1501,Cairo,Egypt,399,Middle East
+1501,Cuttack,India,139,South Asia
+1501,Fez,Morocco,130,Middle East
+1501,Gauda,India,200,South Asia
+1501,Guangzhou,China,150,East Asia
+1501,Hangzhou,China,250,East Asia
+1501,Istanbul,Turkey,205,Europe
+1501,Nanjing,China,147,East Asia
+1501,Paris,France,186,Europe
+1501,Tabriz,Iran,248,Middle East
+1501,Vijayanagar,India,500,South Asia
+
+12
+1502,Beijing,China,673,East Asia
+1502,Cairo,Egypt,398,Middle East
+1502,Cuttack,India,138,South Asia
+1502,Fez,Morocco,130,Middle East
+1502,Gauda,India,200,South Asia
+1502,Guangzhou,China,150,East Asia
+1502,Hangzhou,China,250,East Asia
+1502,Istanbul,Turkey,210,Europe
+1502,Nanjing,China,147,East Asia
+1502,Paris,France,186,Europe
+1502,Tabriz,Iran,246,Middle East
+1502,Vijayanagar,India,499,South Asia
+
+12
+1503,Beijing,China,673,East Asia
+1503,Cairo,Egypt,398,Middle East
+1503,Cuttack,India,137,South Asia
+1503,Fez,Morocco,130,Middle East
+1503,Gauda,India,200,South Asia
+1503,Guangzhou,China,151,East Asia
+1503,Hangzhou,China,251,East Asia
+1503,Istanbul,Turkey,215,Europe
+1503,Nanjing,China,147,East Asia
+1503,Paris,France,187,Europe
+1503,Tabriz,Iran,244,Middle East
+1503,Vijayanagar,India,499,South Asia
+
+12
+1504,Beijing,China,673,East Asia
+1504,Cairo,Egypt,397,Middle East
+1504,Cuttack,India,136,South Asia
+1504,Fez,Morocco,130,Middle East
+1504,Gauda,India,200,South Asia
+1504,Guangzhou,China,151,East Asia
+1504,Hangzhou,China,251,East Asia
+1504,Istanbul,Turkey,220,Europe
+1504,Nanjing,China,147,East Asia
+1504,Paris,France,187,Europe
+1504,Tabriz,Iran,242,Middle East
+1504,Vijayanagar,India,498,South Asia
+
+12
+1505,Beijing,China,674,East Asia
+1505,Cairo,Egypt,396,Middle East
+1505,Cuttack,India,135,South Asia
+1505,Fez,Morocco,130,Middle East
+1505,Gauda,India,200,South Asia
+1505,Guangzhou,China,151,East Asia
+1505,Hangzhou,China,251,East Asia
+1505,Istanbul,Turkey,225,Europe
+1505,Nanjing,China,147,East Asia
+1505,Paris,France,188,Europe
+1505,Tabriz,Iran,240,Middle East
+1505,Vijayanagar,India,498,South Asia
+
+12
+1506,Beijing,China,674,East Asia
+1506,Cairo,Egypt,395,Middle East
+1506,Cuttack,India,134,South Asia
+1506,Fez,Morocco,130,Middle East
+1506,Gauda,India,200,South Asia
+1506,Guangzhou,China,151,East Asia
+1506,Hangzhou,China,251,East Asia
+1506,Istanbul,Turkey,230,Europe
+1506,Nanjing,China,147,East Asia
+1506,Paris,France,188,Europe
+1506,Tabriz,Iran,238,Middle East
+1506,Vijayanagar,India,498,South Asia
+
+12
+1507,Beijing,China,675,East Asia
+1507,Cairo,Egypt,394,Middle East
+1507,Cuttack,India,133,South Asia
+1507,Edirne,Turkey,131,Europe
+1507,Gauda,India,200,South Asia
+1507,Guangzhou,China,151,East Asia
+1507,Hangzhou,China,251,East Asia
+1507,Istanbul,Turkey,235,Europe
+1507,Nanjing,China,147,East Asia
+1507,Paris,France,189,Europe
+1507,Tabriz,Iran,236,Middle East
+1507,Vijayanagar,India,497,South Asia
+
+12
+1508,Beijing,China,675,East Asia
+1508,Cairo,Egypt,394,Middle East
+1508,Cuttack,India,132,South Asia
+1508,Edirne,Turkey,131,Europe
+1508,Gauda,India,200,South Asia
+1508,Guangzhou,China,152,East Asia
+1508,Hangzhou,China,252,East Asia
+1508,Istanbul,Turkey,240,Europe
+1508,Nanjing,China,147,East Asia
+1508,Paris,France,189,Europe
+1508,Tabriz,Iran,234,Middle East
+1508,Vijayanagar,India,497,South Asia
